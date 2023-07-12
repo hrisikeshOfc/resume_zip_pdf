@@ -1,0 +1,17 @@
+{
+    "vegetarian": [
+      "Spinach Salad",
+      "Vegetable Stir-Fry",
+      "Vegetable Curry",
+      "Caprese Pizza",
+      "Hummus and Veggie Wrap"
+    ],
+    "nonvegetarian": [
+      "Grilled Chicken",
+      "Beef Burger",
+      "Salmon Sushi",
+      "Chicken Tikka Masala",
+      "Pepperoni Pizza"
+    ]
+  }
+  
