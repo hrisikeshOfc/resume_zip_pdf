@@ -1,0 +1,23 @@
+{
+    "animals": [
+      {
+        "name": "Lion",
+        "species": "Panthera leo",
+        "description": "The lion is a large, wild cat that is native to Africa. It is the second-largest cat in the world, after the tiger. Lions are social animals and live in prides, which can consist of up to 40 individuals. They are apex predators and prey on a variety of animals, including zebras, wildebeest, and antelope.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lion_portrait.JPG/1200px-Lion_portrait.JPG"
+      },
+      {
+        "name": "Elephant",
+        "species": "Elephas maximus",
+        "description": "The elephant is the largest land mammal in the world. It is native to Africa and Asia. Elephants are herbivores and eat a variety of plants, including grass, leaves, and fruit. They are social animals and live in herds, which can consist of up to 100 individuals. Elephants are intelligent animals and have been known to use tools.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/African_elephant_silhouette.svg/1200px-African_elephant_silhouette.svg.png"
+      },
+      {
+        "name": "Giraffe",
+        "species": "Giraffa camelopardalis",
+        "description": "The giraffe is the tallest land mammal in the world. It is native to Africa. Giraffes are herbivores and eat a variety of leaves, shoots, and fruits. They are social animals and live in herds, which can consist of up to 50 individuals. Giraffes are known for their long necks, which they use to reach leaves from tall trees.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Giraffe-silhouette.svg/1200px-Giraffe-silhouette.svg.png"
+      }
+    ]
+  }
+  
